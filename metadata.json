@@ -1,0 +1,6 @@
+{
+  "name": "NRZ NOX",
+  "description": "Real-time peer-to-peer live camera photo exchange with mutual consent and ephemeral viewing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
